@@ -1,0 +1,14 @@
+body{
+  margin: 0px;
+  padding: 10px; background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4W6tH9rvUKOLBpxvYTKhSDjQA3diqI6eMYaBl6Zey0KbcSarF");
+}
+#slider {
+  height:1000px;
+  width:1000px;
+  overflow: hidden;
+  margin: 30px auto;
+  text-align: center;
+}
+#slider img{
+  display: none;height:50%;width:50%
+}
